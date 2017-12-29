@@ -10,6 +10,8 @@ __pycache__/
 
 /config/secret_settings.py
 
+/mh_app/static/images/home_screen.mp4
+
 # Distribution / packaging
 .Python
 env/
